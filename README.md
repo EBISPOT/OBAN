@@ -7,7 +7,7 @@ OBAN stands for **O**pen **B**iomedical **AN**notations. It is an ontology model
 
 # 
 
-![](https://github.com/EBISPOT/OBAN/blob/master/oban%20db%20source%20model.png)
+![](https://github.com/EBISPOT/OBAN/blob/master/diagrams/oban%20db%20source%20model.png)
 
 
 OBAN represents a triple-form entity of subject-related-to object through the object properties *association_has_subject* and *association_has_object*. This association is supported by an *OBAN:provenance* class that instantiates a provenance entity that supports the association. In OBAN, provenance is a class that validates the association statement in the corresponding *OBAN:association* class instance. One provenance individual can also be about several associations as the same provenance may provide evidence for multiple subject-object associations, and each association instance can have several items of provenance attached to it.
