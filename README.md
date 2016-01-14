@@ -26,4 +26,7 @@ OBAN is a small ontology with a core skeleton consisting of three main classes; 
 ### Publications
 * Sirarat Sarntivijai, Drashtti Vasant, Gary Saunders, Patricia Bento, Daniel Gonzalez, Joanna Betts, Samiul Hasan, Gautier Koscielny, Ian Dunham, Helen Parkinson, and James Malone ["Linking rare and common disease: mapping clinical disease-phenotypes to ontologies in therapeutic target validation](https://github.com/EBISPOT/OBAN/blob/master/publications/Rare2Common_PhenoMap_Proceedings-SIG-2015.pdf)
 
+
+
 ### Contact us
+Submit your questions via [OBAN issue tracker](https://github.com/EBISPOT/OBAN/issues)
