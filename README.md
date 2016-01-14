@@ -20,13 +20,15 @@ OBAN is a small ontology with a core skeleton consisting of three main classes; 
 
 ### Projects utilising OBAN
 * [Disease-phenotype associations](https://sourceforge.net/p/efo/code/HEAD/tree/trunk/src/efoassociations/) at the Centre for Therapeutic Target Validation ([CTTV](http://www.targetvalidation.org))
+
 * BioMedBridges Diabetes Ontology ([DIAB](https://bioportal.bioontology.org/ontologies/DIAB))
 
 
 
 ### Publications
-* Sirarat Sarntivijai, Drashtti Vasant, Gary Saunders, Patricia Bento, Daniel Gonzalez, Joanna Betts, Samiul Hasan, Gautier Koscielny, Ian Dunham, Helen Parkinson, and James Malone ["Linking rare and common disease: mapping clinical disease-phenotypes to ontologies in therapeutic target validation](https://github.com/EBISPOT/OBAN/blob/master/publications/Rare2Common_PhenoMap_Proceedings-SIG-2015.pdf)
-* Drashtti Vasant, Frauke Neff, Philipp Gormanns, Nathalie Conte, Andreas Fritsche, Harald Staiger, Jee-Hyub Kim, James Malone, Michael Raess, Matin Hrabe de Angelis, Peter Robinson, and Helen Parkinson ["DIAB: An Ontology for Type 2 Diabetes Stages and Associated Phenotypes](http://phenoday2015.bio-lark.org/pdf/6.pdf)
+* Sirarat Sarntivijai, Drashtti Vasant, Gary Saunders, Patricia Bento, Daniel Gonzalez, Joanna Betts, Samiul Hasan, Gautier Koscielny, Ian Dunham, Helen Parkinson, and James Malone ["Linking rare and common disease: mapping clinical disease-phenotypes to ontologies in therapeutic target validation"](https://github.com/EBISPOT/OBAN/blob/master/publications/Rare2Common_PhenoMap_Proceedings-SIG-2015.pdf)
+
+* Drashtti Vasant, Frauke Neff, Philipp Gormanns, Nathalie Conte, Andreas Fritsche, Harald Staiger, Jee-Hyub Kim, James Malone, Michael Raess, Matin Hrabe de Angelis, Peter Robinson, and Helen Parkinson ["DIAB: An Ontology for Type 2 Diabetes Stages and Associated Phenotypes"](http://phenoday2015.bio-lark.org/pdf/6.pdf)
 
 
 
