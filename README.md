@@ -19,7 +19,7 @@ OBAN is a small ontology with a core skeleton consisting of three main classes; 
 
 
 ### Projects utilising OBAN
-* [Disease-phenotype associations](https://sourceforge.net/p/efo/code/HEAD/tree/trunk/src/efoassociations/) at the Centre for Therapeutic Target Validation [CTTV](http://www.targetvalidation.org)
+* [Disease-phenotype associations](https://sourceforge.net/p/efo/code/HEAD/tree/trunk/src/efoassociations/) at the Centre for Therapeutic Target Validation ([CTTV])(http://www.targetvalidation.org)
 
 
 
