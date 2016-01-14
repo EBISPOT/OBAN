@@ -15,7 +15,7 @@ OBAN represents a triple-form entity of subject-related-to object through the ob
 
 ### Implementation guideline
 
-OBAN is a small ontology with a core skeleton consisting of three main classes; *OBAN:association*, *OBAN:provenance*, and *ECO:evidence*. OBAN exploits the evidence codes in [Evidence Ontology (ECO)](http://www.evidenceontology.org/)'s in representing an evidence attached to the provenance. We have provided OBAN ontology is both OWL and TTL format in our file repository [here](https://github.com/EBISPOT/OBAN/tree/master/ontology). A new subject-object association is to be created as an instance. You can use an ontology editor software (such as [protege](http://protege.stanford.edu/) - [how to add individuals](https://www.youtube.com/watch?v=_7MfDdsFePk)), or [OWL API](http://owlapi.sourceforge.net/) to programmatically do this.
+OBAN is a small ontology with a core skeleton consisting of three main classes; *OBAN:association*, *OBAN:provenance*, and *ECO:evidence*. OBAN exploits the evidence codes in [Evidence Ontology (ECO)](http://www.evidenceontology.org/)'s in representing an evidence attached to the provenance. We have provided OBAN ontology is both OWL and TTL format in our file repository [here](https://github.com/EBISPOT/OBAN/tree/master/ontology). A new subject-object association is to be created as an instance. You can use an ontology editor software (such as [Protege](http://protege.stanford.edu/) - [how to add individuals](https://www.youtube.com/watch?v=_7MfDdsFePk)), or [OWL API](http://owlapi.sourceforge.net/) to programmatically do this.
 
 
 ### Projects utilising OBAN
